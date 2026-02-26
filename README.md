@@ -716,14 +716,7 @@ The system uses 4 specialized AI agents running sequentially:
 | `OPENAI_API_KEY` | ✅ | OpenAI API key for LLM |
 | `SERPER_API_KEY` | ✅ | Serper API key for web search |
 
----
 
 ## ⚠️ Disclaimer
 
 All analysis produced by this system is **for informational purposes only** and does not constitute financial advice. Always consult a qualified financial advisor before making investment decisions. The AI agents provide analysis based on document content and publicly available information.
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
